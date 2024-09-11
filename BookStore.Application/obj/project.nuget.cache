@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "26Eo0LNIBlM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Application\\Bookstore.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.deps.json
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.AssemblyInfo.cs
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.sourcelink.json
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.dll
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\refint\BookStore.Domain.dll
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Domain\obj\Debug\net8.0\ref\BookStore.Domain.dll
