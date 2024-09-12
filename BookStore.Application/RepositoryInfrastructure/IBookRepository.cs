@@ -10,5 +10,6 @@ namespace BookStore.Application.RepositoryInfrastructure
     {
         Task<List<BookViewModel>> GetAllBooks();
         Task<BookViewModel> GetBook(string Title);
+        Task<bool> DeleteBook(string Title);
     }
 }

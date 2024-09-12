@@ -2,3 +2,8 @@
 
 <p> @Model.Author </p>
 <p> @Model.Title</p>
+
+<form asp-action="DeleteBook" asp-controller="Home">
+    <input type="hidden" name="Title" value="@Model.Title">
+    <input type="submit" value="Delete">
+</form>

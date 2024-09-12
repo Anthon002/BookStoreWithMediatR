@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj": {}
+    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj": {
+    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj",
-        "projectName": "BookStore.Domain",
-        "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj",
+        "projectName": "Bookstore.Domain",
+        "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

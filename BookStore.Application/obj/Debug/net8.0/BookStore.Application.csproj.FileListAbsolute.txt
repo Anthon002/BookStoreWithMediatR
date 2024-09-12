@@ -13,4 +13,4 @@ C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStor
 C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
 C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
 C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
-C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\BookStore.Application\obj\Debug\net8.0\BookStor.D70AE061.Up2Date
+C:\Users\admin\Documents\Projects\Dotnet\BookStore\BookStoreWithMediatR\Bookstore.Application\obj\Debug\net8.0\Bookstor.1929DB81.Up2Date
