@@ -1545,43 +1545,43 @@
           }
         }
       },
-      "Bookstore.Application/1.0.0": {
+      "BookStore.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Bookstore.Domain": "1.0.0",
+          "BookStore.Domain": "1.0.0",
           "MediatR": "11.1.0"
         },
         "compile": {
-          "bin/placeholder/Bookstore.Application.dll": {}
+          "bin/placeholder/BookStore.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bookstore.Application.dll": {}
+          "bin/placeholder/BookStore.Application.dll": {}
         }
       },
-      "Bookstore.Domain/1.0.0": {
+      "BookStore.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Bookstore.Domain.dll": {}
+          "bin/placeholder/BookStore.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bookstore.Domain.dll": {}
+          "bin/placeholder/BookStore.Domain.dll": {}
         }
       },
-      "Bookstore.Infrastructure/1.0.0": {
+      "BookStore.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Bookstore.Application": "1.0.0",
+          "BookStore.Application": "1.0.0",
           "Microsoft.Entityframeworkcore": "8.0.8",
           "Microsoft.Entityframeworkcore.SqlServer": "8.0.8"
         },
         "compile": {
-          "bin/placeholder/Bookstore.Infrastructure.dll": {}
+          "bin/placeholder/BookStore.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bookstore.Infrastructure.dll": {}
+          "bin/placeholder/BookStore.Infrastructure.dll": {}
         }
       }
     }
@@ -4221,25 +4221,25 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Bookstore.Application/1.0.0": {
+    "BookStore.Application/1.0.0": {
       "type": "project",
-      "path": "../Bookstore.Application/Bookstore.Application.csproj",
-      "msbuildProject": "../Bookstore.Application/Bookstore.Application.csproj"
+      "path": "../BookStore.Application/BookStore.Application.csproj",
+      "msbuildProject": "../BookStore.Application/BookStore.Application.csproj"
     },
-    "Bookstore.Domain/1.0.0": {
+    "BookStore.Domain/1.0.0": {
       "type": "project",
-      "path": "../Bookstore.Domain/Bookstore.Domain.csproj",
-      "msbuildProject": "../Bookstore.Domain/Bookstore.Domain.csproj"
+      "path": "../BookStore.Domain/BookStore.Domain.csproj",
+      "msbuildProject": "../BookStore.Domain/BookStore.Domain.csproj"
     },
-    "Bookstore.Infrastructure/1.0.0": {
+    "BookStore.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Bookstore.Infrastructure/Bookstore.Infrastructure.csproj",
-      "msbuildProject": "../Bookstore.Infrastructure/Bookstore.Infrastructure.csproj"
+      "path": "../BookStore.Infrastructure/BookStore.Infrastructure.csproj",
+      "msbuildProject": "../BookStore.Infrastructure/BookStore.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Bookstore.Infrastructure >= 1.0.0",
+      "BookStore.Infrastructure >= 1.0.0",
       "MediatR >= 11.1.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0",
       "Microsoft.Entityframeworkcore >= 8.0.8",
@@ -4273,8 +4273,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj"
+            "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj"
             }
           }
         }

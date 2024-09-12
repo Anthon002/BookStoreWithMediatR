@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CYpec1oYxFY=",
+  "dgSpecHash": "iV+yPz7QqV8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

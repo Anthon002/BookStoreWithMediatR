@@ -23,6 +23,17 @@ public class HomeController : Controller
         List<BookViewModel> books = await _mediator.Send(new GetAllBooksQuery());
         return View(books);
     }
+    [HttpGet]
+    public async Task<ActionResult<BookViewModel>> GetBook(string Title)
+    {
+        BookViewModel book = await _mediator.Send(new GetBookQuery(Title));
+        return View(book);
+    }
+    [HttpPost]
+    public async Task<ActionResult<bool>> DeleteBook(string Title)
+    {
+        await _mediator.Send(new DeleteBookCommand());
+    }
 
     public IActionResult Privacy()
     {

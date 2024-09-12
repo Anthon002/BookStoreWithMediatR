@@ -4,14 +4,14 @@
     "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.MVC\\BookStore.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Application\\Bookstore.Application.csproj": {
+    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Application\\BookStore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Application\\Bookstore.Application.csproj",
-        "projectName": "Bookstore.Application",
-        "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Application\\Bookstore.Application.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Application\\BookStore.Application.csproj",
+        "projectName": "BookStore.Application",
+        "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Application\\BookStore.Application.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Application\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj": {
-                "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj"
+              "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj",
-        "projectName": "Bookstore.Domain",
-        "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\Bookstore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj",
+        "projectName": "BookStore.Domain",
+        "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\BookStore.Domain.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
+    "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
-        "projectName": "Bookstore.Infrastructure",
-        "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
+        "projectName": "BookStore.Infrastructure",
+        "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -152,8 +152,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Application\\Bookstore.Application.csproj": {
-                "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Application\\Bookstore.Application.csproj"
+              "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Application\\BookStore.Application.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Application\\BookStore.Application.csproj"
               }
             }
           }
@@ -236,8 +236,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj"
+              "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\Projects\\Dotnet\\BookStore\\BookStoreWithMediatR\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj"
               }
             }
           }

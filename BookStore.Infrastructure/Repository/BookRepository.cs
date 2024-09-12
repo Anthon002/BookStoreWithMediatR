@@ -21,5 +21,11 @@ namespace BookStore.Infrastructure.Repository
             List<BookViewModel> books = await _dbContext.BookTable.Select(x => new BookViewModel{Title = x.Title, Author = x.Author, DatePublished = x.DatePublished, Synopsis = x.Synopsis}).ToListAsync();
             return books;
         }
+
+        public async Task<BookViewModel> GetBook(string Title)
+        {
+            BookViewModel book = await _dbContext.BookTable.Where(x => x.Title == Title).Select(x => new BookViewModel{Title = x.Title, Author = x.Author, DatePublished = x.DatePublished,Synopsis = x.Synopsis}).FirstAsync();
+            return book;
+        }
     }
 }

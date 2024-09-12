@@ -9,5 +9,6 @@ namespace BookStore.Application.RepositoryInfrastructure
     public interface IBookRepository
     {
         Task<List<BookViewModel>> GetAllBooks();
+        Task<BookViewModel> GetBook(string Title);
     }
 }
